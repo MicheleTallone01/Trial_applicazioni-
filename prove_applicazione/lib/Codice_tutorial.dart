@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart'; 
 // flutter è l estensione, alla base c è il material design 
 
